@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F7001570-4290-419A-A557-F44F0D2CEB0C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LiveAudioGranularSynthesis_Maxim</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6D0798E1-8C5F-41E8-81B1-7820C30CAE4E</key>
+		<string>https://github.com/JoshuaBatty/LiveAudioGranularSynthesis-Maxim.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LiveAudioGranularSynthesis_Maxim.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6D0798E1-8C5F-41E8-81B1-7820C30CAE4E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JoshuaBatty/LiveAudioGranularSynthesis-Maxim.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6D0798E1-8C5F-41E8-81B1-7820C30CAE4E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6D0798E1-8C5F-41E8-81B1-7820C30CAE4E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LiveAudioGranularSynthesis-Maxim</string>
+		</dict>
+	</array>
+</dict>
+</plist>

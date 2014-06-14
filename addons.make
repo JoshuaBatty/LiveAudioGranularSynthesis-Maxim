@@ -1,0 +1,4 @@
+ofxXmlSettings
+ofxDspChain
+ofxMaxim
+ofxUI
