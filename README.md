@@ -18,6 +18,11 @@ NOTE!!!
 In order for the Maxim loop record method I had to uncomment out the following 2 lines in the maximilian.h file (see below)
 Other than that, once that is done all should work.
 
-https://raw.githubusercontent.com/JoshuaBatty/LiveAudioGranularSynthesis-Maxim/master/Maxim%20hack.png
+![Maxim Loop Record Hack] (https://raw.githubusercontent.com/JoshuaBatty/LiveAudioGranularSynthesis-Maxim/master/Maxim%20hack.png)
 
 Please Use headphones at the same time else you may encounter some demonic feedback :) 
+
+..........................................................................
+USAGE
+
+please see video link below to see the example in action :)
