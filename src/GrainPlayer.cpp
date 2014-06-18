@@ -28,7 +28,7 @@ void GrainPlayer::setup(){
     recMix = 0.0;
     
     //Granular
-    speed = 1.0;
+    speed = 0.9999;
     grainSize = 0.25;
     pitch = 1.0;
     playHead = 0.0;
